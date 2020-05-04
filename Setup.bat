@@ -1,0 +1,2 @@
+bin\Setup
+pause
