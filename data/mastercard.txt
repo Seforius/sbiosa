@@ -1,0 +1,5 @@
+Swing,d
+Throw,d
+Kick,f
+Jump, 12431235
+Roll
